@@ -1,5 +1,5 @@
 <?php
 class maclass {
-	
+	kjjkkj
 }
 ?>
